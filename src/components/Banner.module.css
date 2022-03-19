@@ -17,3 +17,7 @@ left :450px;
  font-size: 2rem;
  color: #696969
 }
+
+.textContainer p {
+    color: white;
+}
