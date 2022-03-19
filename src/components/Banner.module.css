@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    position: relative;
+
+}
+.container img {
+    width: 100%;
+}
+
+.textContainer{
+position: absolute;
+top: 200px;
+left :450px;
+}
+
+.textContainer h1 {
+ font-size: 2rem;
+ color: #696969
+}
