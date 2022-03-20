@@ -1,23 +1,22 @@
-.container{
-    width: 100%;
-    position: relative;
-
+.container {
+  width: 100%;
+  position: relative;
 }
 .container img {
-    width: 100%;
+  width: 100%;
 }
 
-.textContainer{
-position: absolute;
-top: 200px;
-left :450px;
+.textContainer {
+  position: absolute;
+  top: 200px;
+  left: 450px;
 }
 
 .textContainer h1 {
- font-size: 2rem;
- color: #696969
+  font-size: 2rem;
+  color: #696969;
 }
 
 .textContainer p {
-    color: white;
+  color: white;
 }

@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Navbar.module.css";
-import Logo from "../images/loremlogo.svg"
+import Logo from "../images/loremlogo.svg";
 const Navbar = () => {
   return (
     <header className={styles.header}>
@@ -13,7 +13,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className={styles.logo}>
-          <img className={styles.logo} src={Logo} alt="Lorem Logo"/>
+        <img className={styles.logo} src={Logo} alt="Lorem Logo" />
       </div>
     </header>
   );
