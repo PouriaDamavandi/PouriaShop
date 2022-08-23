@@ -24,7 +24,11 @@
   color: #fff;
   font-weight: bold;
 }
-
-.lists li:hover {
+.lists li a{
+  cursor: pointer;
+  color: #fff;
+  text-decoration: none;
+}
+.lists li a:hover {
   color: #251e1e;
 }
